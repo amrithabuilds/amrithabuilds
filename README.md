@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amritha%20Nandakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20%26%20Communication%20Engineering%20Student%20%7C%20Embedded%20%26%20IoT%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;Building+Smart+IoT+Automation+with+ESP32;IEDC+Student+Lead+%7C+NSS+Program+Head" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;Building+Smart+IoT+Automation+with+ESP32;IEDC+Student+Lead+%7C+NSS+Program+Head" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif"/>
 
 ```c
 typedef struct {
@@ -44,9 +44,11 @@ void motto() {
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frameworks & Platforms**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Blynk](https://img.shields.io/badge/Blynk-03C2FC?style=flat-square&logo=blynk&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat-square&logo=googleassistant&logoColor=white)
