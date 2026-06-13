@@ -1,17 +1,15 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amritha%20Nandakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20%26%20Communication%20Engineering%20Student%20%7C%20Embedded%20%26%20IoT%20Enthusiast&descAlignY=62&descSize=16)
-
+    
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amritha%20Nandakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20and%20Communication%20Engineering%20Student%20%7C%20Embedded%20and%20IoT%20Enthusiast&descAlignY=62&descSize=16)
+ 
 </div>
 
 <div align="center">
-
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=ECE+Student+%7C+Embedded+%26+IoT+Enthusiast;Embedded+Systems+%7C+IoT+%7C+Firmware;ESP32+%2B+C+%2B+Python;Building+Smart%2C+Connected+Hardware)](https://git.io/typing-svg)
-
+ 
 </div>
-
 <br/>
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```c
@@ -19,7 +17,6 @@ typedef struct {
     char name[20]      = "Amritha Nandakumar";
     char location[20]  = "Kerala, India";
     char degree[40]    = "B.Tech - Electronics & Communication Engg.";
-
     char stack[6][20] = {
         "C Programming",
         "Python (Basic)",
@@ -28,21 +25,18 @@ typedef struct {
         "Blynk IoT Platform",
         "MATLAB"
     };
-
     char currentlyLearning[3][30] = {
         "Firmware Development (RTOS)",
         "UART / SPI / I2C Protocols",
         "Advanced Embedded C"
     };
-
     char funFact[60] = "I once debugged a gas-leak alert at 2 AM!";
 } Engineer;
 
 char* motto() {
     return "Designing hardware that thinks, senses, and protects.";
 }
-```
-
+`````
 <br clear="right"/>
 
 <div align="center">
